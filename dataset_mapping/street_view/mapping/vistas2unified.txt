@@ -1,0 +1,66 @@
+0,Bird,255
+1,Ground Animal,255
+2,Curb,1
+3,Fence,4
+4,Guard Rail,255
+5,Barrier,255
+6,Wall,3
+7,Bike Lane,0
+8,Crosswalk - Plain,0
+9,Curb Cut,1
+10,Parking,255
+11,Pedestrian Area,255
+12,Rail Track,255
+13,Road,0
+14,Service Lane,0
+15,Sidewalk,1
+16,Bridge,255
+17,Building,2
+18,Tunnel,255
+19,Person,11
+20,Bicyclist,12
+21,Motorcyclist,12
+22,Other Rider,12
+23,Lane Marking - Crosswalk,0
+24,Lane Marking - General,0
+25,Mountain,255
+26,Sand,255
+27,Sky,10
+28,Snow,255
+29,Terrain,9
+30,Vegetation,8
+31,Water,255
+32,Banner,255
+33,Bench,255
+34,Bike Rack,255
+35,Billboard,255
+36,Catch Basin,0
+37,CCTV Camera,255
+38,Fire Hydrant,255
+39,Junction Box,255
+40,Mailbox,255
+41,Manhole,0
+42,Phone Booth,2
+43,Pothole,0
+44,Street Light,5
+45,Pole,5
+46,Traffic Sign Frame,5
+47,Utility Pole,5
+48,Traffic Light,6
+49,Traffic Sign (Back),7
+50,Traffic Sign (Front),7
+51,Trash Can,255
+52,Bicycle,18
+53,Boat,255
+54,Bus,15
+55,Car,13
+56,Caravan,255
+57,Motorcycle,17
+58,On Rails,16
+59,Other Vehicle,255
+60,Trailer,255
+61,Truck,14
+62,Wheeled Slow,255
+63,Car Mount,255
+64,Ego Vehicle,255
+65,Unlabeled,255
